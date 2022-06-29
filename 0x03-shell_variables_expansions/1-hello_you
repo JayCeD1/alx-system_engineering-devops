@@ -1,2 +1,2 @@
 #!/bin/bash
-scho hello $USER
+scho "hello $USER"
